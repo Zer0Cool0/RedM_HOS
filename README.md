@@ -1,5 +1,5 @@
 # RedM_HOS
-RedM HOS (Hall Of Shame) is a connection checker using a master banlist.json built into the resource.
+RedM HOS (Hall Of Shame) is a connection checker using a master banlist.json built into the resource. Lets keep our communities clean.
 
 ## Adding to the banlist
 Create a pull request with all identifiers you have.
