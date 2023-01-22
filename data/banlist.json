@@ -1,0 +1,82 @@
+[
+    {
+        "steam": "steam:110000105c3eeb8",
+        "license": "license:9a59a3b411ceb64634048100c4731aa1e7039beb",
+        "xbl": "xbl:2535418804123849",
+        "live": "live:914798571406836",
+        "discord": "discord:267109271064412160",
+        "fivem": null
+    },
+    {
+        "steam": "steam:11000015a1ed696",
+        "license": "license:417c8bdc82b3a0d22a0d4dcb87d7b594a67618f3",
+        "xbl": null,
+        "live": null,
+        "discord": "discord:1066254439444381716",
+        "fivem": null
+    },
+    {
+        "steam": "steam:11000015a29900d",
+        "license": "license:d2fcbfec3e9fdd9ae476fdf57d6d154323e9972b",
+        "xbl": "xbl:2535426186424834",
+        "live": "live:985153943413956",
+        "discord": "discord:1066514485256392766",
+        "fivem": "fivem:9229900"
+    },
+    {
+        "steam": "steam:110000146fc12e3",
+        "license": "license:0ed8ec7da9f6fa68a2a97c24b38e5075e91b4c29",
+        "xbl": "xbl:2535456439023443",
+        "live": "live:985154815211737",
+        "discord": "discord:331287863746363392",
+        "fivem": "fivem:9032269"
+    },
+    {
+        "steam": "steam:1100001572a15f9",
+        "license": "license:a7533b6665783ff11e37eeb5ddf9b3145f414850",
+        "xbl": null,
+        "live": null,
+        "discord": "discord:1053750399728885770",
+        "fivem": null
+    },
+    {
+        "steam": "steam:11000015a1bf965",
+        "license": "license:fc81c2101ddc95d7230193a29f9dde30b8423ea3",
+        "xbl": null,
+        "live": "live:914799337199927",
+        "discord": "discord:383106904874024974",
+        "fivem": null
+    },
+    {
+        "steam": "steam:11000014e4d60d2",
+        "license": "license:c42ac6bc48bbfac90526b70ab384d5a1bd7d13da",
+        "xbl": null,
+        "live": null,
+        "discord": "discord:789721727210356748",
+        "fivem": null
+    },
+    {
+        "steam": "steam:110000159c6c32b",
+        "license": "license:c42ac6bc48bbfac90526b70ab384d5a1bd7d13da",
+        "xbl": null,
+        "live": null,
+        "discord": "discord:1058538296092925973",
+        "fivem": null
+    },
+    {
+        "steam": "steam:110000136021b47",
+        "license": "license:df170650b60a9927a971c81a3ded4d50cb57d171",
+        "xbl": "xbl:2535414848352502",
+        "live": "live:844428125326582",
+        "discord": "discord:258360769672904704",
+        "fivem": null
+    },
+    {
+        "steam": "steam:1100001320c797f",
+        "license": "license:95b7d02c4cc68f5bbd1dc75f6b47760a25c09fd2",
+        "xbl": "xbl:2535460910411087",
+        "live": "live:914798782512176",
+        "discord": "discord:759126757395005481",
+        "fivem": "fivem:9142186"
+    }
+]
